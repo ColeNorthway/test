@@ -1,0 +1,8 @@
+Write-Host "Test executed from memory at $(Get-Date)"
+
+<?xml version="1.0"?>
+<command>
+  <a>
+    <execute>Write-Host "Test executed from memory at $(Get-Date)"</execute>
+  </a>
+</command>
